@@ -1,0 +1,10 @@
+salman 30
+sabir 78
+kamran 50
+hamza 32
+ali 6
+shahrukh 99
+sipra 5
+tahir 4
+burhan 44
+eisha 69
